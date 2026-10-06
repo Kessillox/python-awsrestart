@@ -7,7 +7,7 @@ incluye un "valor agregado" con mejoras.
 
 El código está comentado línea a línea en español para facilitar su revisión.
 
-Trabajo realizado por:
+*Trabajo realizado por:*
 * Felipe Kessi Bustos
 * Jennifer Tapia Teare
 
